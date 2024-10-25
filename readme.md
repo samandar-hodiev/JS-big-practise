@@ -18,4 +18,4 @@
     <hr> 
 
  # UI 
- ![alt text](<Screenshot 2024-10-25 at 04.36.30.png>)
+ ![alt text](<Screenshot 2024-10-26 at 03.48.42.png>)
